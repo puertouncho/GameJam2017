@@ -1,0 +1,44 @@
+{"frames": {
+
+"./images/background/border_0.png":
+{
+	"frame": {"x":0,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"./images/background/border_1.png":
+{
+	"frame": {"x":100,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"./images/background/border_2.png":
+{
+	"frame": {"x":200,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"./images/background/border_3.png":
+{
+	"frame": {"x":300,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "border.png",
+	"format": "RGBA8888",
+	"size": {"w":400,"h":100},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a729c60ac70d64593d4a334d2f5b972d:7c861c8e9ec614c140f7a71a82c47aa9:740ec0ae39f37d632f5ab57c7a88b2a8$"
+}
+}

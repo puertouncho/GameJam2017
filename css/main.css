@@ -1,0 +1,86 @@
+body {
+	color: #eee;
+}
+
+.start-background {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background-image: url('../images/screens/background_Tile_Title.png');
+	background-repeat: repeat;
+}
+
+.start-instructions {
+	position: absolute;
+	left: 50%;
+	white-space: nowrap;
+	bottom: 10%;
+	font-size: 2em;
+	transform: translateX(-50%);
+}
+.levels {
+	margin: 40px;
+}
+
+.box-bg {
+	position: relative;
+	background-image: url(../images/screens/level_select_box.png);
+	background-size: contain;
+	padding: 10px;
+	width: 100%;
+	height: 100%;
+	min-height: 250px !important;
+	background-repeat: no-repeat;
+}
+
+.select-image {
+	position: absolute;
+	display: block;
+	bottom: 15%;
+	left: 50%;
+	transform: translate3d(-50%, -50%, 0);
+}
+
+.level-description {
+	padding: 1em;
+	padding-right: 2em;
+	font-size: 0.9em;
+	text-align: center;
+	color: #ffffff;
+	opacity: 0.7;
+}
+
+.disabled {
+	color: #555 !important;
+}
+
+.level-title {
+	position: absolute;
+	font-size: 4em;
+	left: 50%;
+	top: 50%;
+	transform: translate3d(-50%, -50%, 0);
+}
+
+.start-logo {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background-image: url('../images/screens/Title_SIN.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+
+.huge-text {
+	position: absolute;
+	left: 50%;
+	white-space: nowrap;
+	top: 50%;
+	transform: translate3d(-50%, -50%, 0);
+	font-size: 4em;
+}
